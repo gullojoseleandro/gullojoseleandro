@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋!  i'm Leandro, a 27 years old full stack developer from Argentina.</h1>
+<h1 align="center">Hi 👋! I'm Leandro, a full stack developer from Argentina.</h1>
 
 ###
 
