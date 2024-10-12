@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello! I'm Leandro, a Junior Developer with a passion for technology and a strong desire for knowledge. I hold a degree as an IT technician and am currently pursuing a Technical Degree in Programming, as well as the third year of a Bachelor's Degree in Information Security.<br><br>As a Junior Full Stack Developer at a well-known multinational company, I have the opportunity to apply my skills in real-world projects. I love learning new things and am constantly seeking opportunities to expand my expertise and stay updated with the latest technologies.</p>
+<p align="left">A Junior Developer with a passion for technology and a strong desire for knowledge. I hold a degree as an IT technician and am currently pursuing a Technical Degree in Programming, as well as the third year of a Bachelor's Degree in Information Security.<br><br>As a Junior Full Stack Developer at a well-known multinational company, I have the opportunity to apply my skills in real-world projects. I love learning new things and am constantly seeking opportunities to expand my expertise and stay updated with the latest technologies.</p>
 
 ###
 
