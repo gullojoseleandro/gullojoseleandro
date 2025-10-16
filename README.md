@@ -2,7 +2,7 @@
 </br>
 
 <div align="center">
-  <h3><a href="https://gullojl-dev.netlify.app/">💼 Mi portfolio.</a></h3>
+  <h3><a href="https://jlgdev.com/">💼 Mi portfolio.</a></h3>
 </div>
 
 </br>
