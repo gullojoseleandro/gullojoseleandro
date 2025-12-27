@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Leandro, a full stack developer from Argentina.</h1>
+<h1 align="center">Hi 👋! I'm Leandro, a Full Stack Developer from Argentina.</h1>
 </br>
 
 <div align="center">
@@ -11,9 +11,13 @@
 
 ###
 
-<p align="left">A Junior Developer with a passion for technology and a strong desire to continually expand my knowledge. I hold a degree as an IT technician and am currently pursuing a Technical Degree in Programming, as well as completing my third year of a Bachelor's Degree in Information Security.
+<p align="left">
+I’m a Full Stack Developer with 3 years of professional experience, passionate about building scalable solutions and constantly expanding my technical expertise.  
+I hold a degree as an IT Technician, I’m pursuing a Technical Degree in Programming, and I’m completing my third year of a Bachelor's Degree in Information Security.  
 
-As a Junior Full Stack Developer at a well-known multinational company, I have the opportunity to apply my skills to real-world projects. I am constantly learning new things and seeking opportunities to enhance my expertise, staying up to date with the latest technologies.</p>
+Currently, I work at a well-known multinational company where I apply my skills to real-world projects, collaborating in diverse teams and delivering high-quality solutions.  
+I’m committed to staying up to date with the latest technologies and continuously improving my craft.
+</p>
 
 ###
 
@@ -21,7 +25,13 @@ As a Junior Full Stack Developer at a well-known multinational company, I have t
 
 ###
 
-<p align="left">👨‍💻 TypeScript, JavaScript, C#, PHP<br>⚙️ React, Vue<br>💽 MySQL, SQLServer<br><br>and more!! :D</p>
+<p align="left">
+👨‍💻 Languages: TypeScript, JavaScript, C#, PHP, Python, Java<br>
+⚙️ Frameworks & Libraries: React, Node.js, Express, .NET, Spring Boot, Hibernate <br>
+💽 Databases: MySQL, SQL Server, PostgreSQL<br>
+🛠️ Tools & Others: Docker, Git, REST APIs, GraphQL, TailwindCSS, CI/CD pipelines <br><br>
+…and more! 🚀
+</p>
 
 ###
 
@@ -52,7 +62,6 @@ As a Junior Full Stack Developer at a well-known multinational company, I have t
   </tr>
 </table>
 
-
 ###
 
 <h2 align="start">Contact</h2>
@@ -63,10 +72,10 @@ As a Junior Full Stack Developer at a well-known multinational company, I have t
   <a href="https://www.linkedin.com/in/gullo-jose-leandro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="joseleandrogullo@gmail.com" target="_blank">
+  <a href="mailto:joseleandrogullo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="+543489594918" target="_blank">
+  <a href="https://wa.me/543489594918" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
